@@ -1,5 +1,5 @@
 Just doing some weird stuff, hoping to make enough money for rent at least while building my knowledge.
 
-I run a private git server, and am much more active there since pushing unity projects to github is a great way to exhaust storage limits within a commit. As such, I am much there than here.
+I run a private git server, and am much more active there since pushing unity projects to github is a great way to exhaust storage limits within a commit.
 
 I use Github to release works that are intended to be (or soon become) public, and to collaborate with others
