@@ -1,4 +1,4 @@
-Just doing some weird stuff, hoping to make enough money for rent at least while building my knowledge.
+Just doing some odd-ball stuff with VR and BCI, hoping to make enough money for rent while building my knowledge.
 
 I run a private git server, and am much more active there since pushing unity projects to github is a great way to exhaust storage limits within a commit.
 
